@@ -3,6 +3,8 @@ scrap usernames and send a message to everyone of them
 
 Usage:
   Edit 'message_sender', write your gametracker.com username + password
+  Edit 'message.txt', write your message content
+  Edit 'subject.txt', write your message title
   Execute start.bat
   Select an option
   Done.
