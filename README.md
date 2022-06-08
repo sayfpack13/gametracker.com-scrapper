@@ -1,5 +1,5 @@
 # gametracker.com scrapper
-scrap usernames and send messages to everyone of them
+scrap usernames and send a message to everyone of them
 
 Usage:
   Edit 'message_sender', write your gametracker.com username + password
