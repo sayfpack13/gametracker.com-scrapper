@@ -3,8 +3,8 @@ import GameTrackerTools
 
 
 def message_sender():
-    username = "sayfxxxxxxxxxx"
-    password = "sayfpackc11@gmail.com"
+    username = "xxxxxxxxxxx"
+    password = "xxxxxxxxxxxxx"
     usernames_file = open("usernames.txt", "r", encoding="utf8")
     subject_file = open("subject.txt", "r", encoding="utf8")
     message_file = open("message.txt", "r", encoding="utf8")

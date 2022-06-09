@@ -29,11 +29,11 @@ def send_msg(driver, usernames_file, subject_file, message_file, sendmsg_url):
     message_file_content = message_file.read()
     subject_file_content = subject_file.read()
     username_list = usernames_file.readlines()
-    username_count=len(username_list)
     msg_sended=0
 
     # remove duplicated usernames
     username_list=list(dict.fromkeys(username_list))
+    username_count = len(username_list)
 
     for username in username_list:
         try:
